@@ -30,5 +30,5 @@ The project consists of the following files:
 3. Open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/your-username/simple-html-game.git
-cd simple-html-game
+git clone https://github.com/naimul1211/simpleballgame.git
+cd simpleballgame
